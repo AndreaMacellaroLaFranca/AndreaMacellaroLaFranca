@@ -3,7 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:240046,25:3C096C,50:5A189A,75:7B2CBF,100:9D4EDD&height=200&section=header&text=&fontSize=0&animation=twinkling)
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=⭐+Andrea+Macellaro+La+Franca+⭐;✨+Backend+Developer+✨;🚀+Java+%7C+Spring+%7C+Express.js+🚀;🌌+Based+in+Italy+🇮🇹+🌌" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=+Andrea+Macellaro+La+Franca+;✨+Backend+Developer+✨;🚀+Java+%7C+Spring+%7C+Express.js+🚀;🌌+Based+in+Italy+🌌" alt="Typing SVG" />
 </h1>
 
 </div>
