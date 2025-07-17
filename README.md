@@ -1,41 +1,62 @@
 <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D1FF&center=true&vCenter=true&width=480&lines=Andrea+Macellaro+La+Franca!;Backend+Developer;Java+%7C+Spring+%7C+Express.js;Based+in+Italy+🇮🇹" alt="Typing SVG" /> </h1>
 🧠 About Me
-👨‍💻 Backend Developer specialized in designing and building reliable, scalable, and maintainable APIs.
-⚙️ Experienced in both Java (Spring) and JavaScript (Express.js) ecosystems.
-🧱 Strong foundation in object-oriented programming, relational databases, and API architecture.
-🎨 While not a frontend enthusiast, I do have a good design eye that helps me collaborate well with designers and build clear, usable backend interfaces.
-📈 Always improving my craft and expanding my backend expertise.
+👨‍💻 Backend Developer focused on scalable, maintainable systems
 
-“Backend is where the logic lives — and I love keeping it clean.”
+⚙️ Skilled in both Java + Spring and JavaScript + Express.js
+
+🧠 Solid background in OOP, clean architecture, and relational DBs
+
+🎨 Not a frontend lover, but I’ve got a good design eye and value clean UX
+
+📈 Constantly improving my backend architecture and tooling
+
+"Backend is where the logic lives — and I love keeping it clean."
 
 🚀 Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,express,sql,ts,html,css" alt="Tech Stack Icons" /> </p>
-🛠️ Tools I Use
-<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea,figma" /> </p>
+🟧 Java, Spring Boot, Spring MVC
+
+🟨 JavaScript, Node.js, Express.js
+
+🟦 SQL, PostgreSQL, MySQL
+
+🟪 TypeScript, REST APIs, JWT, Middleware
+
+🟥 Basic HTML/CSS knowledge (not my passion 😉)
+
+🛠️ Tools & IDEs
+💻 IntelliJ IDEA, VS Code
+
+🔄 Git, GitHub
+
+🧪 Postman, Thunder Client
+
+🧠 Figma (UI review & collaboration)
+
 ⚙️ What I Do Best
-🧩 Backend development with Java + Spring and JavaScript + Express.js
+🔧 Building APIs with Spring Boot and Express.js
 
-🔌 Build and document RESTful APIs
+🔐 Handling authentication, middleware, and secure endpoints
 
-🗃️ Work with relational databases using SQL
+🧱 Writing clean, modular, and testable backend code
 
-🔐 Handle authentication, business logic, and secure endpoints
+🗃️ Working with relational databases and writing efficient queries
 
-🧠 Focus on OOP principles, clean code, and layered architecture
+🧠 Following clean architecture patterns and good coding practices
 
-🎨 Collaborate with frontend/dev teams using my design awareness
+🤝 Collaborating cross-team thanks to my design awareness
 
-📦 Use tools like Postman, Git, VSCode, and IntelliJ
+📂 Projects
+🧙‍♂️ MagicHat – Java console app inspired by Harry Potter
 
-📂 Some Projects I’m Proud Of
-🧙‍♂️ MagicHat – A fun Harry Potter-style sorting app in Java
+🎮 Arcade‑Black‑Jack – Console Blackjack game in Java
 
-🎮 Arcade‑Black‑Jack – A simple Blackjack console game in Java
+📞 RubricaTelefonica – Contact manager with PHP & MySQL
 
-📞 RubricaTelefonica – Contact book web app using PHP + MySQL
+🧪 HouseCup – Angular project for exploration
 
-🧪 HouseCup – Angular app scaffolded to explore frontend structure
+📫 Contact Me
+🔗 LinkedIn
 
-Find them all on my GitHub 👉 @AndreaMacellaroLaFranca
+💻 GitHub
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:3A0CA3&height=120&section=footer"/> </p>
