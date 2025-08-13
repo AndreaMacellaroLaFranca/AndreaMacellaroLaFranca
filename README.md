@@ -68,6 +68,6 @@
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:240046,25:3C096C,50:5A189A,75:7B2CBF,100:9D4EDD&height=120&section=footer)
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=9D4EDD&style=for-the-badge&label=VISITORS)
+![Profile Views](https://komarev.com/ghpvc/?username=andreamacellarolafranca&color=9D4EDD&style=for-the-badge&label=VISITORS)
 
 </div>
