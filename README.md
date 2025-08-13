@@ -60,8 +60,8 @@
 
 ## 📫 Where to Find Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=240046&color=9D4EDD)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=240046&color=7B2CBF)](https://github.com/yourusername)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=240046&color=9D4EDD)](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/andreamacellarolafranca/))
+[![GitHub]([https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=240046&color=7B2CBF)](https://github.com/yourusername](https://github.com/AndreaMacellaroLaFranca))
 
 ---
 
