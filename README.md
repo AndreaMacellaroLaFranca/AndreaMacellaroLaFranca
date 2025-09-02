@@ -25,7 +25,14 @@
 ## 🚀 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,postgres,spring,express,nodejs,jest&theme=dark" />
+<!-- Java -->
+<img src="https://skillicons.dev/icons?i=java,spring,postgres&theme=dark" title="Java, Spring Boot, PostgreSQL" />
+
+<!-- JS / TS -->
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,jest&theme=dark" title="JavaScript, TypeScript, Node.js, Express.js, Jest" />
+
+<!-- Python -->
+<img src="https://skillicons.dev/icons?i=python&theme=dark" title="Python" />
 </p>
 
 ---
