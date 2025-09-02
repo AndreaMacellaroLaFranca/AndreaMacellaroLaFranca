@@ -13,9 +13,9 @@
 ## 🧠 About Me
 
 🌟 **Backend Developer** passionate about clean code, APIs, and scalable systems  
-⚙️ Skilled in both **Java (Spring)** and **JavaScript (Express.js)**  
+⚙️ Skilled in **Java (Spring)** and **JavaScript (Express.js)**  
 🧠 Strong foundation in **OOP**, relational databases, and backend architecture  
-🎨 Not into frontend, but I've got a good design eye for clean structure  
+🎨 Not into frontend, but I have a good design eye for clean structure  
 📈 Always growing, always learning  
 
 *"Backend is where the logic lives — and I love keeping it clean."* ✨
@@ -38,23 +38,30 @@
 
 ---
 
-## ⚙️ What I Do Best
+## 💼 Professional Experience / Key Projects
 
-🔧 **Backend development** with Spring Boot and Express.js  
-🔐 **Auth systems** with JWT, middleware, and secure API design  
-🧱 **Clean, modular, testable code** with layered architecture  
-🗃️ **SQL database design** and optimized queries  
-🧠 Apply **SOLID principles**, object-oriented programming, and RESTful practices  
-🤝 **Collaborate smoothly** with frontend devs thanks to my design awareness  
+🎓 **Polaris** — Full backend development for a US-targeted **e-learning + e-commerce platform**, including video streaming, teacher/student workflow, and an advanced admin panel. Built APIs, designed and optimized the PostgreSQL database, and collaborated with the frontend team on UI/UX. [Visit Polaris](https://polairis.app)  
 
 ---
 
 ## 📂 Projects
 
-🧙‍♂️ **MagicHat** — Sorting Hat Java console app  
-🎮 **Arcade-Black-Jack** — Classic Blackjack in Java  
-📞 **RubricaTelefonica** — Contact manager in PHP + MySQL  
-🧪 **HouseCup** — Angular playground app  
+🌌 **AstroVerse** — An interactive wiki about space, with NASA plugins providing a 3D view of every planet, star, or spacecraft.  
+🎮 **Arcade-Black-Jack Public** — An arcade version of Blackjack.  
+🧙‍♂️ **MagicHat** — Sorting Hat Java console app.  
+🏠 **MortgageCalculator** — Simple mortgage calculator app.  
+
+---
+
+## ⚙️ What I Do Best
+
+🔧 **Backend development** with Spring Boot and Express.js  
+🔐 **Auth systems** with JWT, middleware, and secure API design  
+🧱 **Clean, modular, testable code** with layered architecture  
+🗃️ **SQL database design** and optimized queries (PostgreSQL & MySQL)  
+🧠 Apply **SOLID principles**, object-oriented programming, and RESTful practices  
+🤝 **Collaborate smoothly** with frontend devs thanks to my design awareness  
+🚀 **Full project backend ownership**, especially for professional platforms like Polaris  
 
 ---
 
@@ -64,6 +71,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=240046&color=7B2CBF)](https://github.com/AndreaMacellaroLaFranca)
 
 ---
+
 <div align="center">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:240046,25:3C096C,50:5A189A,75:7B2CBF,100:9D4EDD&height=120&section=footer)
