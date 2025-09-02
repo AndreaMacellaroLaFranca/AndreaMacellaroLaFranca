@@ -25,15 +25,19 @@
 ## 🚀 Tech Stack
 
 <p align="left">
-<!-- Java -->
-<img src="https://skillicons.dev/icons?i=java,spring,postgres&theme=dark" title="Java, Spring Boot, PostgreSQL" />
+<!-- Programming Languages -->
+<img src="https://skillicons.dev/icons?i=java,js,ts,python&theme=dark" title="Java, JavaScript, TypeScript, Python" />
 
-<!-- JS / TS -->
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,jest&theme=dark" title="JavaScript, TypeScript, Node.js, Express.js, Jest" />
+<!-- Frontend / UI -->
+<img src="https://skillicons.dev/icons?i=angular,react,html,css&theme=dark" title="Angular, React, HTML, CSS" />
 
-<!-- Python -->
-<img src="https://skillicons.dev/icons?i=python&theme=dark" title="Python" />
+<!-- Backend Frameworks & Tools -->
+<img src="https://skillicons.dev/icons?i=spring,express,nodejs,jest&theme=dark" title="Spring Boot, Express.js, Node.js, Jest" />
+
+<!-- Database -->
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" title="PostgreSQL" />
 </p>
+
 
 ---
 
