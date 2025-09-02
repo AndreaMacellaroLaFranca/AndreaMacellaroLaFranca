@@ -25,7 +25,7 @@
 ## 🚀 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,express,ts,postgresql,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,postgres,spring,express,nodejs,jest&theme=dark" />
 </p>
 
 ---
