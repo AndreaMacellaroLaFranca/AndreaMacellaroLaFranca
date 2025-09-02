@@ -80,7 +80,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=240046&color=7B2CBF)](https://www.linkedin.com/in/andreamacellarolafranca/)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=240046&color=7B2CBF)](https://github.com/AndreaMacellaroLaFranca)  
-[![Email](https://img.shields.io/badge/Email-andrea.macellaro@gmail.com-7B2CBF?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=240046)](mailto:andrea.macellaro@gmail.com)
+[![Email](https://img.shields.io/badge/Email-andrea.macellaro@gmail.com-7B2CBF?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=240046)](#)
+
+📧 **Email (click or copy):** [andrea.macellaro@gmail.com](mailto:andrea.macellaro@gmail.com)
 
 
 ---
